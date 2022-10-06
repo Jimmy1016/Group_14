@@ -1,7 +1,10 @@
 # Group_14
 
+---
 
 # SystemAnalysis-group14
+
+---
 
 | 職位 | 學號 | 姓名 | 任務 |
 | :---: | :---: | :---: | :---: |
@@ -10,6 +13,7 @@
 | 組員 | C109118240 | [林采諭](https://github.com/C109118240/C109118240/blob/main/README.md) | 進行甘特圖繪製 |
 | 組員 | C109118253 | [李貞慧](https://github.com/C109118253/C109118253/blob/main/README.md) | 進行PERT/CPM圖表繪製 |
 
+---
 ```mermaid
 gantt
     title 甘特圖 10月
@@ -34,41 +38,18 @@ gantt
     確認圖表規劃:a3,2022-10-18,7d
     
 ```
+---
+
+
 
 ```mermaid
-graph TD
-    A[開始]-->B{吃早餐};
-    B --YES -->[工作];
-    B --NO --> [休息時間到了];
-    D -.yes.-> E((休息));
-    D -.no.-> C;
-    E --> F(吃飯);
-``` 
-
-Deploy to production
-Is it Friday?
-Do not deploy!
-Run deploy.sh to deploy!
-7
-B No-> D[Run deploy.sh to deploy!];
-8
-9
-DE[Enjoy your weekend!];
-10
-11
-***mermaid
-flowchart TD
-A[Deploy to production]-> B(Is it Friday?};
-B- Yes-> C[Do not deploy!];
-Enjoy your weekend!
-Preview
-1 ## How to deploy
-2
-3
-4
-5
-6
-<> Edit file
-CE[Enjoy your weekend!];
-    
+graph LR
+    A(開始) -->B(起床)
+    B --天氣不好--- C>工作]
+    C ==> D{休息時間到了}
+    D -.yes.-> E((休息))
+    D -.no.-> C
+    E --> F(吃飯)
+```
+---
     
