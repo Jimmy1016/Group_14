@@ -14,6 +14,7 @@
 | 組員 | C109118253 | [李貞慧](https://github.com/C109118253/C109118253/blob/main/README.md) | 進行PERT/CPM圖表繪製 |
 
 ---
+## 甘特圖
 ```mermaid
 gantt
     title 甘特圖 10月
@@ -38,6 +39,9 @@ gantt
     確認圖表規劃:a3,2022-10-18,7d
     
 ```
+---
+## PERT
+![GROUP](Group.png "GROUP")
 ---
 ```mermaid
 graph LR
