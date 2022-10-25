@@ -43,15 +43,7 @@ gantt
 ## PERT
 ![GROUP](Group.png "GROUP")
 ---
-```mermaid
-graph LR
-    A(開始) -->B(起床)
-    B --天氣不好--- C>工作]
-    C ==> D{休息時間到了}
-    D -.yes.-> E((休息))
-    D -.no.-> C
-    E --> F{吃飯}
-```
+
 ---
 
 ---
