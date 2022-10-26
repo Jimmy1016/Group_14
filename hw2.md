@@ -42,4 +42,4 @@
 ---
 ## Figma
  
-[![use_case](Figma.png "use_case") ](https://www.figma.com/proto/hzKF82u9MAdTN9LQJhKnOU/G14-FIGMA?node-id=0%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A3)
+[![Figma](Figma.png "Figma") ](https://www.figma.com/proto/hzKF82u9MAdTN9LQJhKnOU/G14-FIGMA?node-id=0%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A3)
