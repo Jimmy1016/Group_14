@@ -10,7 +10,7 @@
 ---
 
 ## FDD
-![fdd](fdd.png "FDD")
+![fdd](/img/fdd.png "FDD")
 
 ---
 ## 需求分析
@@ -24,7 +24,7 @@
 
 ---
 ## 使用案例圖
-![use_case](使用案例圖.drawio.png "use_case")  
+![use_case](/img/使用案例圖.drawio.png "use_case")  
 
 ---
 
@@ -67,4 +67,4 @@
 
 ---
 ## Figma  
-[![Figma](Figma.png "Figma")](https://www.figma.com/proto/hzKF82u9MAdTN9LQJhKnOU/G14-FIGMA?node-id=0%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A3)
+[![Figma](/img/Figma.png "Figma")](https://www.figma.com/proto/hzKF82u9MAdTN9LQJhKnOU/G14-FIGMA?node-id=0%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A3)
