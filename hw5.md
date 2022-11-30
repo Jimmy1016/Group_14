@@ -13,7 +13,7 @@
 ---
 ### 空間預約
 ### 學生 --> 輸入帳密 --> 功能選擇(空間預約) --> 校區選擇 --> 查看可用空間 --> 空間時間選擇 --> 借閱成功
-<img src="/img/初始畫面.png" width="250"/>  <img src="/img/login.png" width="250"/>  <img src="/img/學生登入介面.png" width="250"/>  <img src="/img/樓層選擇.png" width="250"/>  <img src="/img/可用空間.png" width="250"/>  <img src="/img/時間選擇.png" width="250"/>  <img src="/img/空間預約成功.png" width="250"/>
+<img src="/img/初始畫面.png" width="250"/>  <img src="/img/login.png" width="250"/>  <img src="/img/學生登入介面.png" width="250"/>  <img src="/img/校區選擇.png" width="250"/>  <img src="/img/可用空間.png" width="250"/>  <img src="/img/時間選擇.png" width="250"/>  <img src="/img/空間預約成功.png" width="250"/>
 ---
 ### 館藏查詢
 ### 學生 --> 輸入帳密 --> 功能選擇(館藏查詢) --> 書籍查詢 --> 位置資訊
