@@ -1,7 +1,7 @@
 # 分鏡板(storyboard)
 
 ## 訪客
-![訪客](/img/初始畫面.png)
+![訪客](/img/初始畫面.png) ![login](/img/login.png)
 ---
 ## 學生
 ### 借書
