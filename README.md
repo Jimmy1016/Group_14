@@ -41,6 +41,6 @@ gantt
 ```
 ---
 ## PERT
-![GROUP](/img/Group.png "GROUP")
+![GROUP](/img/PERT.png "GROUP")
 ---
 
